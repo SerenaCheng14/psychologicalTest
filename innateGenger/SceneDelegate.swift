@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  innateGenger
 //
-//  Created by Damon on 2020/12/3.
+//  Created by Serena on 2020/12/3.
 //
 
 import UIKit
